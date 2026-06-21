@@ -4,7 +4,7 @@ A basic portfolio website built with HTML, CSS, and JavaScript.
 This project includes a working contact form integrated with Google Sheets and a loading spinner for visual feedback.
 
 ## 🚀 Live Demo
-[Click here to view it live](https://megadrumx.github.io/Dummy-portfolio/)
+[Click here to view it live](https://bolu-watife.github.io/Dummy-portfolio/)
 
 ## 🛠 Features
 - Clean and responsive portfolio layout
@@ -31,5 +31,5 @@ This project includes a working contact form integrated with Google Sheets and a
 Project is live and functional. Open to improvements and customization.
 
 ## 🙌 Author
-**Boluwatife Adeniyi** – [@megadrumx](https://github.com/megadrumx)
+**Boluwatife Adeniyi** – [@bolu-watife](https://github.com/bolu-watife)
 
